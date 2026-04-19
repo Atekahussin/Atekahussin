@@ -31,13 +31,6 @@ Here are some of the academic and personal projects I've developed:
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atekahussin&show_icons=true&theme=radical" alt="Atekah's GitHub Stats" />
-</p>
-
----
-
 ### 📫 Connect with me
 - **LinkedIn:** [Atekah Hussain](https://www.linkedin.com/in/ateka-hussain/)
 - **Email:** [atekahussin@gmail.com]
