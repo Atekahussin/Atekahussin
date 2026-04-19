@@ -8,7 +8,6 @@ I am a passionate Computer Science student at **King Faisal University (KFU)**, 
 ### 🚀 Featured Projects
 Here are some of the academic and personal projects I've developed:
 
-* **[MirsalX (Graduation Project)](https://github.com/Atekahussin/MirsalX)**: A comprehensive courier mobile app and company website featuring AI-powered route optimization.
 * **[Video Game Sales Predictor](https://github.com/Atekahussin/Video-Game-Sales-SVR)**: A Data Science project using Support Vector Regression (SVR) with **83% accuracy**.
 * **[Smart Parking System](https://github.com/Atekahussin/Smart-Parking-AI)**: An AI-driven solution for real-time parking space detection using Computer Vision.
 * **[Hospital Database System](https://github.com/Atekahussin/Hospital-Database-Management-System)**: A full-scale relational database design with Oracle APEX implementation.
@@ -41,7 +40,7 @@ Here are some of the academic and personal projects I've developed:
 
 ### 📫 Connect with me
 - **LinkedIn:** [Atekah Hussain](https://www.linkedin.com/in/ateka-hussain/)
-- **Email:** [Your Email Address]
+- **Email:** [atekahussin@gmail.com]
 
 <p align="center">
   *"Coding is the language of the future, and I'm fluent in it."*
