@@ -1,15 +1,21 @@
-# Hi there, I'm Atekah Hussain 👋
+# Hi there, I'm Atekah Hussain Aljafar 👋
 
 ### 🎓 Computer Science Student | AI & Software Development Enthusiast
-I am a passionate CS student at **King Faisal University (KFU)**, dedicated to building intelligent solutions and robust software. My journey involves exploring the intersection of **Artificial Intelligence**, **Data Science**, and **Cybersecurity**.
+I am a passionate Computer Science student at **King Faisal University (KFU)**, focused on building intelligent solutions and exploring the fields of **Artificial Intelligence**, **Data Science**, and **Cybersecurity**. 
 
 ---
 
 ### 🚀 Featured Projects
-* **[MirsalX (Graduation Project)](https://github.com/atekah-hussain/MirsalX)**: A comprehensive courier mobile app and company website featuring AI-powered route optimization and real-time tracking.
-* **[Video Game Sales Predictor](https://github.com/atekah-hussain/Video-Game-Sales-SVR)**: A Data Science project using Support Vector Regression (SVR) to predict sales with **83% accuracy**.
-* **[Smart Parking System](https://github.com/atekah-hussain/Smart-Parking-AI)**: An AI-driven solution for real-time parking space detection using Computer Vision.
-* **[Hospital Management System](https://github.com/atekah-hussain/Hospital-DB)**: A full-scale relational database design and Oracle APEX implementation.
+Here are some of the academic and personal projects I've developed:
+
+* **[MirsalX (Graduation Project)](https://github.com/Atekahussin/MirsalX)**: A comprehensive courier mobile app and company website featuring AI-powered route optimization.
+* **[Video Game Sales Predictor](https://github.com/Atekahussin/Video-Game-Sales-SVR)**: A Data Science project using Support Vector Regression (SVR) with **83% accuracy**.
+* **[Smart Parking System](https://github.com/Atekahussin/Smart-Parking-AI)**: An AI-driven solution for real-time parking space detection using Computer Vision.
+* **[Hospital Database System](https://github.com/Atekahussin/Hospital-Database-Management-System)**: A full-scale relational database design with Oracle APEX implementation.
+* **[Playfair Cipher Tool](https://github.com/Atekahussin/Playfair-Cipher-Security-Tool)**: A Java-based cryptographic tool for secure text encryption.
+* **[Edge Detection Tool](https://github.com/Atekahussin/Digital-Image-Processing-Edge-Detection)**: Implementing Canny Edge Detection using Python and OpenCV.
+* **[8x1 Multiplexer Design](https://github.com/Atekahussin/8x1-Multiplexer-Logic-Design)**: Digital Logic Design and circuit simulation using Logisim.
+* **[Flight Management System](https://github.com/Atekahussin/Flight-Management-System-DataStructures)**: C++ implementation of passenger management using Linked Lists.
 
 ---
 
@@ -17,7 +23,7 @@ I am a passionate CS student at **King Faisal University (KFU)**, dedicated to b
 - **Languages:** Python, Java, C++, SQL.
 - **AI & Data Science:** Machine Learning, Deep Learning, OpenCV, SVR.
 - **Tools:** VS Code, Git/GitHub, Firebase, Oracle APEX.
-- **Hardware/Logic:** Logisim, Digital Logic Design.
+- **Concepts:** Data Structures, Cybersecurity, Digital Logic.
 
 ---
 
@@ -28,14 +34,14 @@ I am a passionate CS student at **King Faisal University (KFU)**, dedicated to b
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Atekah's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atekahussin&show_icons=true&theme=radical" alt="Atekah's GitHub Stats" />
 </p>
 
 ---
 
 ### 📫 Connect with me
 - **LinkedIn:** [Atekah Hussain](https://www.linkedin.com/in/ateka-hussain/)
-- **Email:** [atekahussin@gmail.com]
+- **Email:** [Your Email Address]
 
 <p align="center">
   *"Coding is the language of the future, and I'm fluent in it."*
