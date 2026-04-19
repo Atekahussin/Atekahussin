@@ -8,8 +8,8 @@ I am a passionate Computer Science student at **King Faisal University (KFU)**, 
 ### 🚀 Featured Projects
 Here are some of the academic and personal projects I've developed:
 
-* **[Video Game Sales Predictor](https://github.com/Atekahussin/Video-Game-Sales-SVR)**: A Data Science project using Support Vector Regression (SVR) with **83% accuracy**.
-* **[Smart Parking System](https://github.com/Atekahussin/Smart-Parking-AI)**: An AI-driven solution for real-time parking space detection using Computer Vision.
+* **[Video Game Sales Predictor](https://github.com/Atekahussin/Video-Game-Sales-SVR-Prediction)**: A Data Science project using Support Vector Regression (SVR) with **83% accuracy**.
+* **[Smart Parking System](https://github.com/Atekahussin/Smart-Parking-Assistant-AI)**: An AI-driven solution for real-time parking space detection using Computer Vision.
 * **[Hospital Database System](https://github.com/Atekahussin/Hospital-Database-Management-System)**: A full-scale relational database design with Oracle APEX implementation.
 * **[Playfair Cipher Tool](https://github.com/Atekahussin/Playfair-Cipher-Security-Tool)**: A Java-based cryptographic tool for secure text encryption.
 * **[Edge Detection Tool](https://github.com/Atekahussin/Digital-Image-Processing-Edge-Detection)**: Implementing Canny Edge Detection using Python and OpenCV.
