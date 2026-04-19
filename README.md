@@ -13,7 +13,7 @@ Here are some of the academic and personal projects I've developed:
 * **[Hospital Database System](https://github.com/Atekahussin/Hospital-Database-Management-System)**: A full-scale relational database design with Oracle APEX implementation.
 * **[Playfair Cipher Tool](https://github.com/Atekahussin/Playfair-Cipher-Security-Tool)**: A Java-based cryptographic tool for secure text encryption.
 * **[Edge Detection Tool](https://github.com/Atekahussin/Digital-Image-Processing-Edge-Detection)**: Implementing Canny Edge Detection using Python and OpenCV.
-* **[8x1 Multiplexer Design](https://github.com/Atekahussin/8x1-Multiplexer-Logic-Design)**: Digital Logic Design and circuit simulation using Logisim.
+* **[8x1 Multiplexer Design](https://github.com/Atekahussin/Digital-Logic-Design-MUX)**: Digital Logic Design and circuit simulation using Logisim.
 * **[Flight Management System](https://github.com/Atekahussin/Flight-Management-System-DataStructures)**: C++ implementation of passenger management using Linked Lists.
 
 ---
