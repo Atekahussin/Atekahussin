@@ -35,7 +35,7 @@ I am a passionate CS student at **King Faisal University (KFU)**, dedicated to b
 
 ### 📫 Connect with me
 - **LinkedIn:** [Atekah Hussain](https://www.linkedin.com/in/ateka-hussain/)
-- **Email:** [Your Email Address]
+- **Email:** [atekahussin@gmail.com]
 
 <p align="center">
   *"Coding is the language of the future, and I'm fluent in it."*
